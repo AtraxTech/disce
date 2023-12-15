@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 
-title: Personal home page
+title: Disce aut Discede
 theme: hugo-book
 defaultContentLanguage: ru
 disablePathToLower: true
