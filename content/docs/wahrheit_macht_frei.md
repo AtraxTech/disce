@@ -9,4 +9,4 @@ bookToc: false
 _Как оказалось, схожая задача[^2] известна с 1612 года._
 
 [^1]: (нем.) Истина освобождает
-[^2]: https://ru.wikipedia.org/wiki/Задача_Иосифа_Флавия
+[^2]: [https://ru.wikipedia.org/wiki/Задача_Иосифа_Флавия](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%B0_%D0%A4%D0%BB%D0%B0%D0%B2%D0%B8%D1%8F)
