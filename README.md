@@ -1,1 +1,0 @@
-Disce aut Discede!
